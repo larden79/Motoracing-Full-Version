@@ -225,3 +225,6 @@ This repository serves as the official landing page for Motoracing. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Motoracing today!**
+
+---
+**Last updated:** 2026-09-11 05:35:40 UTC
